@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "product_name": "Wireless Earbuds X1",
+        "description": "Earbuds nirkabel dengan noise cancelling dan baterai 24 jam. Earbuds nirkabel dengan noise cancelling dan baterai 24 jam. Earbuds nirkabel dengan noise cancelling dan baterai 24 jam. Earbuds nirkabel dengan noise cancelling dan baterai 24 jam. Earbuds nirkabel dengan noise cancelling dan baterai 24 jam. Earbuds nirkabel dengan noise cancelling dan baterai 24 jam.",
+        "price": 299000
+    },
+    {
+        "id": 2,
+        "product_name": "Mechanical Keyboard K-87",
+        "description": "Earbuds nirkabel dengan noise cancelling dan baterai 24 jam. Keyboard mechanical TKL dengan switch tactile dan RGB.",
+        "price": 650000
+    },
+    {
+        "id": 3,
+        "product_name": "Gaming Mouse UltraSharp",
+        "description": "Mouse gaming 7200 DPI dengan 7 tombol macro.",
+        "price": 185000
+    },
+    {
+        "id": 4,
+        "product_name": "Smartwatch FitLife 3",
+        "description": "Smartwatch dengan sensor detak jantung dan GPS.",
+        "price": 499000
+    },
+    {
+        "id": 5,
+        "product_name": "Portable Speaker BoomBox Mini",
+        "description": "Speaker bluetooth mini dengan bass kuat dan tahan air.",
+        "price": 220000
+    },
+    {
+        "id": 6,
+        "product_name": "USB-C Fast Charger 30W",
+        "description": "Charger cepat 30W, mendukung Power Delivery.",
+        "price": 120000
+    },
+    {
+        "id": 7,
+        "product_name": "LED Desk Lamp Pro",
+        "description": "Lampu meja dengan 5 mode warna dan adjustable arm.",
+        "price": 159000
+    },
+    {
+        "id": 8,
+        "product_name": "Laptop Stand Aluminum",
+        "description": "Stand laptop berbahan aluminium kokoh, adjustable.",
+        "price": 135000
+    },
+    {
+        "id": 9,
+        "product_name": "External SSD 512GB Turbo",
+        "description": "SSD eksternal super cepat hingga 520MB/s.",
+        "price": 899000
+    },
+    {
+        "id": 10,
+        "product_name": "Action Camera GoPro Mini",
+        "description": "Kamera aksi waterproof 4K dengan stabilizer.",
+        "price": 1250000
+    },
+    {
+        "id": 11,
+        "product_name": "Bluetooth Headset OfficePro",
+        "description": "Headset profesional untuk meeting dengan mic noise cancelling.",
+        "price": 350000
+    },
+    {
+        "id": 12,
+        "product_name": "Smart LED Strip RGB 5M",
+        "description": "Lampu strip pintar dengan kontrol aplikasi dan mode musik.",
+        "price": 175000
+    },
+    {
+        "id": 13,
+        "product_name": "Powerbank 20.000mAh MaxCharge",
+        "description": "Powerbank kapasitas besar dengan 2 port fast charging.",
+        "price": 240000
+    },
+    {
+        "id": 14,
+        "product_name": "Wireless Keyboard Slim",
+        "description": "Keyboard wireless slim untuk kerja dan desain minimalis.",
+        "price": 189000
+    },
+    {
+        "id": 15,
+        "product_name": "Car Phone Holder 360",
+        "description": "Holder HP mobil dengan rotasi 360° dan penjepit kuat.",
+        "price": 45000
+    },
+    {
+        "id": 16,
+        "product_name": "Smart Home Camera 1080p",
+        "description": "Kamera CCTV WiFi dengan night vision dan motion detection.",
+        "price": 210000
+    },
+    {
+        "id": 17,
+        "product_name": "Mini Projector LiteBeam",
+        "description": "Proyektor mini 720p untuk presentasi atau nonton film.",
+        "price": 899000
+    },
+    {
+        "id": 18,
+        "product_name": "Gaming Chair ComfortMax",
+        "description": "Kursi gaming ergonomis dengan sandaran tinggi dan lumbar support.",
+        "price": 1450000
+    },
+    {
+        "id": 19,
+        "product_name": "Smart Thermometer Digital",
+        "description": "Termometer digital untuk dapur dengan akurasi tinggi.",
+        "price": 89000
+    },
+    {
+        "id": 20,
+        "product_name": "4K HDMI Cable UltraSpeed 2M",
+        "description": "Kabel HDMI 4K dengan gold-plated connector dan braided nylon.",
+        "price": 59000
+    },
+    {
+        "id": 21,
+        "product_name": "Ergonomic Vertical Mouse V-Pro",
+        "description": "Mouse vertikal untuk mengurangi sakit pergelangan tangan.",
+        "price": 165000
+    },
+    {
+        "id": 22,
+        "product_name": "Portable Vacuum MiniPower",
+        "description": "Vacuum cleaner mini untuk mobil dan meja kerja.",
+        "price": 99000
+    },
+    {
+        "id": 23,
+        "product_name": "Smart Water Bottle Tracker",
+        "description": "Botol minum pintar yang mengingatkan untuk minum.",
+        "price": 159000
+    },
+    {
+        "id": 24,
+        "product_name": "Bluetooth Speaker Cylinder Bass aergaeg aerhaerhater aetharet gaergaer",
+        "description": "Speaker bluetooth dengan surround bass dan daya 10W.",
+        "price": 199000
+    },
+    {
+        "id": 25,
+        "product_name": "USB Hub 4-Port 3.0",
+        "description": "Hub USB 4 port kecepatan tinggi.",
+        "price": 69000
+    },
+    {
+        "id": 26,
+        "product_name": "Wireless Charger Pad 15W",
+        "description": "Wireless charging pad dengan teknologi fast charge.",
+        "price": 129000
+    },
+    {
+        "id": 27,
+        "product_name": "Noise Cancelling Headphone Pro",
+        "description": "Headphone premium dengan ANC dan suara jernih.",
+        "price": 799000
+    },
+    {
+        "id": 28,
+        "product_name": "Smart Scale BodyFit",
+        "description": "Timbangan digital pintar yang bisa konek aplikasi.",
+        "price": 199000
+    },
+    {
+        "id": 29,
+        "product_name": "USB Microphone Podcast Go",
+        "description": "Microphone USB untuk podcast, streaming, dan recording.",
+        "price": 349000
+    },
+    {
+        "id": 30,
+        "product_name": "Fitness Resistance Band Set",
+        "description": "Set resistance band olahraga lengkap 5 tingkat kekuatan.",
+        "price": 79000
+    }
+]
